@@ -16,7 +16,8 @@ Convert images between **DDS** and **PNG**, keeping the folder structure and gen
 2. **Select input folder**
 
    * Click **“Select folder”** under **Input folder**.
-   * You can choose **any folder**, even if it contains other types of files.
+   * A window will appear allowing you to choose either a single image file or an entire folder.
+   * You can choose any folder (even if it contains other file types) or select specific image files directly.
    * The program will automatically process only the relevant files based on the format you want:
 
      * To convert to PNG → it will process **DDS** files.
